@@ -40,3 +40,9 @@ body {
   .input-area{
       margin: 30px;
   }
+  .contenedor{
+    text-align: center;
+  }
+  #grid{
+    text-align: center;
+  }
